@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a simple To-Do App built with **React** and **Chakra UI**. This app is also fully **responsive** and includes a **dark mood** option.
+This is a simple To-Do App built with **React** . This app is also fully **responsive** and includes a **dark mode** option.
 
 ### Snapshots
 
@@ -11,4 +11,3 @@ This is a simple To-Do App built with **React** and **Chakra UI**. This app is a
 
 ### Live app
 
-[***dumindapriyasad.github.io/todo-app***](https://dumindapriyasad.github.io/todo-app/)
